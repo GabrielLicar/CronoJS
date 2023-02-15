@@ -16,7 +16,7 @@
     align-items: center;
     gap: 2rem;
     padding-top: 3rem;
-    
+
     height: 95vh;
 }
 
@@ -70,7 +70,8 @@
     color: #FFF;
 }
 
-#pauseBtn, #resumeBtn {
+#pauseBtn,
+#resumeBtn {
     display: none;
 }
 
@@ -89,18 +90,24 @@ footer {
     padding: 10px;
     position: fixed;
     bottom: 0;
-  }
-  
-  footer p {
+}
+
+footer p {
     font-size: 16px;
     margin: 0;
     padding: 0;
-  }
-  
-  footer a {
+}
+
+footer a {
     font-size: 16px;
     margin-left: 5px;
     color: #662e2e;
     font-weight: bold;
     text-decoration: none;
-  }
+}
+
+footer #git {
+    width: 30px;
+    height: 30px;
+    
+}
