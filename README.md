@@ -1,5 +1,8 @@
 # CronoJS - Projeto de Treino
 
+<img src="./assets/FavIconCrono.ico" alt="Imagem do CronoJS" width="270" height="270">
+
+
 CronoJS é um cronômetro simples e fácil de usar, desenvolvido com HTML, CSS e JavaScript como projeto de treino. Com CronoJS, você pode medir o tempo de qualquer atividade com facilidade, seja uma corrida, uma apresentação ou um jogo.
 
 ## Recursos
@@ -12,6 +15,7 @@ CronoJS inclui os seguintes recursos:
 
 ## Como usar
 
+<img src="https://i.imgur.com/BldYP4l.png" alt="Imagem do CronoJS">
 Para usar CronoJS, basta abrir o arquivo "index.html" em seu navegador e clicar no botão "Iniciar" para começar a contagem do tempo. Você pode pausar o cronômetro a qualquer momento clicando no botão "Pausar" e resetar a contagem clicando no botão "Resetar".
 
 ## Personalização
